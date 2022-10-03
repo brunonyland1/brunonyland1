@@ -3,8 +3,6 @@
 - 🔭 Atualmente estou trabalhando em projetos pessoais.
 - 🌱 Atualmente estou aprendendo JavaScript e aprimorando meu HTML5 e CSS3
 - 💬 Se tiver dúvidas referente a algum repositório, deixe um comentário.
-- 😄 Pronomes: Ele/Dele
-
 
 <div align="center">
   <a href="https://github.com/brunonyland1">
